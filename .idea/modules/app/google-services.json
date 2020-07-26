@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1035816257240",
+    "firebase_url": "https://civiccircl.firebaseio.com",
+    "project_id": "civiccircl",
+    "storage_bucket": "civiccircl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035816257240:android:2e0c624c7896db476639ad",
+        "android_client_info": {
+          "package_name": "com.circl.civic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035816257240-8bu1svkvlealjf58ge11b55cnv81o6a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.circl.civic",
+            "certificate_hash": "00e7af19241e2a9f739bdc0fd9ab9dee9dff79a2"
+          }
+        },
+        {
+          "client_id": "1035816257240-pahnhua3gud96fgce8ekufcorc282qcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLQJE2sPZFIQfYwJgwZvEPMR40YwCiMuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035816257240-pahnhua3gud96fgce8ekufcorc282qcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

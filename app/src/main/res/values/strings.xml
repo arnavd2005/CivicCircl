@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FirebaseAuthProject</string>
+    <string name="sign_up">SIGN UP!</string>
+    <string name="mail_address">Mail Adress</string>
+    <string name="password">Password</string>
+    <string name="ok">OK</string>
+    <string name="already_a_member">Already a member?</string>
+    <string name="sign_in">SIGN IN!</string>
+    <string name="forget_your_password">Forget your password?</string>
+    <string name="reset_my_password">RESET MY PASSWORD</string>
+    <string name="create_profile">CREATE PROFILE</string>
+    <string name="name">Name:</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="lastname">LastName:</string>
+    <string name="enter_your_lastname">Enter your lastname</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="email_address">Email Address</string>
+    <string name="profile">Profile</string>
+    <string name="dies">###</string>
+    <string name="log_out">Log Out</string>
+    <string name="psa_header">Public Service Message(s)</string>
+    <string name="psa1_msg">Townhall meeting today at 8:00PM to discuss traffic light safety</string>
+    <string name="psa2_msg">COVID-19: Please wear masks in public</string>
+</resources>
